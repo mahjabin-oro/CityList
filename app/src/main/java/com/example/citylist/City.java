@@ -1,6 +1,7 @@
 package com.example.citylist;
 
-public class City implements Comparable<City>{
+public class City implements Comparable<City>
+{
     private String city;
     private String province;
 
